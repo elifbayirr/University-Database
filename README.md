@@ -1,4 +1,4 @@
-Consider the following set of requirements for a UNIVERSITY database that is used to keep track of students' transcripts. 
+UNIVERSITY database that is used to keep track of students' transcripts. 
 
 (a) The university keeps track of each student's name, student number, social security number, current address and phone, permanent address and phone, birthdate, sex, class (freshman, sophomore, ..., graduate), major department, minor department (if any), and degree program (B.A., B.S., ..., Ph.D.). Some user applications need to refer to the city, state, and zip of the student's permanent address, and to the student's last name. Both social security number and student number have unique values for each student.
 
